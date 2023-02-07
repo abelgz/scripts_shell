@@ -2,7 +2,7 @@
 
 #Una vez cargadas las imagenes, creamos la red
 
-podman create network naturgy
+podman create network red
 
 #Levantamos los contenedores y los añadimos a la red
 
